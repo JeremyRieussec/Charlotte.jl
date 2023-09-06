@@ -1,0 +1,15 @@
+name = "Charlotte"
+uuid = "484557e0-8ed7-4edb-961b-5ed3774d3299"
+authors = ["JeremyRieussec <jeremy.rieussec@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+DocumenterTools = "35a29f4d-8980-5a13-9543-d66fff28ecb8"
+ENLPModels = "40a49f02-5bca-4b67-9829-87357810e07c"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+NLPModels = "a4795742-8479-5a88-8948-cc11e1c8c1a6"
+QuadraticModels = "f468eda6-eac5-11e8-05a5-ff9e497bcd19"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
